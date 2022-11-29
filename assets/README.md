@@ -1,1 +1,0 @@
-This code will generate a random password, any where between 8-128 charecters, with lower/uppercase charecters, numbers, or special charecters. These criteria are specified by the user.
